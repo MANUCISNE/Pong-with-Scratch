@@ -2,6 +2,8 @@
 
 link site: https://scratch.mit.edu/projects/781674775
 
+Descrição: Jogo criado utilizando os conceitos e a lógica de programação (Curso Alura)
+
 Instruções: Utilize a seta para cima e para baixo para movimentar a raquete!
 
 ### Using the code (iframe)
